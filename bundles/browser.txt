@@ -1,0 +1,12 @@
+browser-automation
+browser-testing-with-devtools
+chrome-devtools
+e2e-testing-patterns
+playwright
+playwright-expert
+playwright-explore-website
+playwright-generate-test
+playwright-interactive
+ui-screenshots
+web-perf
+webapp-testing

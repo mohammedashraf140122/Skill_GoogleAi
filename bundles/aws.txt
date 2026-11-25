@@ -1,0 +1,12 @@
+api-gateway
+aws-architecture-diagram
+aws-cdk-python-setup
+aws-cloudwatch-investigation
+aws-cost-optimize
+aws-lambda
+aws-serverless-deployment
+aws-solution-architect
+aws-step-functions
+aws-well-architected-review
+cloud-architect
+dsql

@@ -1,0 +1,15 @@
+database-designer
+database-migration
+firebase-firestore
+mongodb-query-optimizer
+mongodb-schema-design
+neon-postgres
+postgres-pro
+postgresql-table-design
+prisma-client-api
+redis-core
+sql-optimization-patterns
+sql-pro
+supabase
+supabase-postgres-best-practices
+supabase-rls-policies

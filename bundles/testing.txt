@@ -1,0 +1,10 @@
+debugging-and-error-recovery
+debugging-strategies
+javascript-testing-patterns
+mutation-testing
+property-based-testing
+python-testing-patterns
+systematic-debugging
+test-driven-development
+test-master
+verification-before-completion

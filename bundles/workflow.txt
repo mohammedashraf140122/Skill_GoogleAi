@@ -1,0 +1,14 @@
+dispatching-parallel-agents
+executing-plans
+finishing-a-development-branch
+mcp-builder
+planning-and-task-breakdown
+receiving-code-review
+requesting-code-review
+skill-creator
+source-driven-development
+spec-driven-development
+subagent-driven-development
+using-git-worktrees
+using-superpowers
+writing-plans

@@ -1,0 +1,6 @@
+a11y-audit
+accessibility-compliance
+accessibility-engineering
+i18n-localization
+screen-reader-testing
+wcag-audit-patterns

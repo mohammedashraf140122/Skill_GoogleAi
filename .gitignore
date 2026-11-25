@@ -1,0 +1,21 @@
+# Generated archives, caches, and temporary test data
+/dist/
+/tmp/
+/.cache/
+**/__pycache__/
+*.py[cod]
+*.log
+
+# Local skill copies created by install.sh
+/.agents/
+/.claude/
+/.cursor/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db

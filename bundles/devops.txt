@@ -1,0 +1,16 @@
+ci-cd-and-automation
+deployment-pipeline-design
+devops-engineer
+distributed-tracing
+docker-build-strategies
+docker-compose-patterns
+github-actions-templates
+gitops-workflow
+k8s-manifest-generator
+kubernetes-specialist
+monitoring-expert
+observability-and-instrumentation
+postmortem-writing
+sre-engineer
+terraform-engineer
+terraform-style-guide

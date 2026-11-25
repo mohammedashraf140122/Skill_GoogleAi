@@ -1,0 +1,14 @@
+codeql
+differential-review
+secrets-management
+secure-code-guardian
+security-and-hardening
+security-best-practices
+security-pen-testing
+security-review
+security-reviewer
+security-threat-model
+semgrep
+sharp-edges
+stride-analysis-patterns
+supply-chain-risk-auditor

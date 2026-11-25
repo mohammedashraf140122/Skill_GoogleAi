@@ -1,0 +1,12 @@
+architecture-decision-records
+architecture-designer
+architecture-patterns
+cloud-design-patterns
+code-review-excellence
+code-simplification
+cqrs-implementation
+event-store-design
+folder-structure-blueprint-generator
+legacy-modernizer
+monorepo-management
+senior-architect
